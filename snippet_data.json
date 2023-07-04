@@ -1,0 +1,209 @@
+{
+    "players": [
+        {
+            "id": 2123,
+            "firstName": "Joshua",
+            "lastName": "Germon",
+            "wins": 3,
+            "losses": 0
+        },
+        {
+            "id": 2124,
+            "firstName": "Christianne",
+            "lastName": "Marie",
+            "wins": 0,
+            "losses": 2
+        },
+        {
+            "id": 2125,
+            "firstName": "Christian",
+            "lastName": "Luntok",
+            "wins": 4,
+            "losses": 0
+        },
+        {
+            "id": 2126,
+            "firstName": "Jay",
+            "lastName": "Ahn",
+            "wins": 0,
+            "losses": 2
+        },
+        {
+            "id": 2127,
+            "firstName": "Jarrad",
+            "lastName": "Langdon",
+            "wins": 3,
+            "losses": 1
+        },
+        {
+            "id": 2128,
+            "firstName": "Ajaya",
+            "lastName": "Maharjan",
+            "wins": 2,
+            "losses": 1
+        },
+        {
+            "id": 2129,
+            "firstName": "Fabricio",
+            "lastName": "Munoz",
+            "wins": 0,
+            "losses": 1
+        },
+        {
+            "id": 2130,
+            "firstName": "Patrick",
+            "lastName": "Minda",
+            "wins": 0,
+            "losses": 1
+        }
+    ],
+    "games": [
+        {
+            "gameId": 1,
+            "winnerId": 2123,
+            "loserId": 2124,
+            "winnerScore": 21,
+            "loserScore": 4
+        },
+        {
+            "gameId": 2,
+            "winnerId": 2123,
+            "loserId": 2126,
+            "winnerScore": 21,
+            "loserScore": 11
+        },
+        {
+            "gameId": 3,
+            "winnerId": 2123,
+            "loserId": 2127,
+            "winnerScore": 21,
+            "loserScore": 16
+        },
+        {
+            "gameId": 4,
+            "winnerId": 2125,
+            "loserId": 2124,
+            "winnerScore": 21,
+            "loserScore": 19
+        },
+        {
+            "gameId": 5,
+            "winnerId": 2125,
+            "loserId": 2126,
+            "winnerScore": 21,
+            "loserScore": 11
+        },
+        {
+            "gameId": 6,
+            "winnerId": 2125,
+            "loserId": 2128,
+            "winnerScore": 21,
+            "loserScore": 15
+        },
+        {
+            "gameId": 7,
+            "winnerId": 2127,
+            "loserId": 2129,
+            "winnerScore": 21,
+            "loserScore": 19
+        },
+        {
+            "gameId": 8,
+            "winnerId": 2127,
+            "loserId": 2124,
+            "winnerScore": 21,
+            "loserScore": 11
+        },
+        {
+            "gameId": 9,
+            "winnerId": 2127,
+            "loserId": 2130,
+            "winnerScore": 21,
+            "loserScore": 2
+        },
+        {
+            "gameId": 10,
+            "winnerId": 2128,
+            "loserId": 2124,
+            "winnerScore": 21,
+            "loserScore": 16
+        },
+        {
+            "gameId": 11,
+            "winnerId": 2123,
+            "loserId": 2130,
+            "winnerScore": 21,
+            "loserScore": 17
+        },
+        {
+            "gameId": 12,
+            "winnerId": 2123,
+            "loserId": 2129,
+            "winnerScore": 21,
+            "loserScore": 13
+        },
+        {
+            "gameId": 13,
+            "winnerId": 2124,
+            "loserId": 2125,
+            "winnerScore": 21,
+            "loserScore": 13
+        },
+        {
+            "gameId": 14,
+            "winnerId": 2124,
+            "loserId": 2129,
+            "winnerScore": 21,
+            "loserScore": 19
+        },
+        {
+            "gameId": 15,
+            "winnerId": 2129,
+            "loserId": 2130,
+            "winnerScore": 21,
+            "loserScore": 18
+        },
+        {
+            "gameId": 16,
+            "winnerId": 2130,
+            "loserId": 2126,
+            "winnerScore": 24,
+            "loserScore": 22
+        },
+        {
+            "gameId": 17,
+            "winnerId": 2126,
+            "loserId": 2124,
+            "winnerScore": 22,
+            "loserScore": 20
+        },
+        {
+            "gameId": 18,
+            "winnerId": 2125,
+            "loserId": 2124,
+            "winnerScore": 21,
+            "loserScore": 2
+        },
+        {
+            "gameId": 19,
+            "winnerId": 2127,
+            "loserId": 2124,
+            "winnerScore": 21,
+            "loserScore": 12
+        },
+        {
+            "gameId": 20,
+            "winnerId": 2130,
+            "loserId": 2123,
+            "winnerScore": 21,
+            "loserScore": 19
+        },
+        {
+            "gameId": 21,
+            "winnerId": 2130,
+            "loserId": 2126,
+            "winnerScore": 21,
+            "loserScore": 14
+        }
+    ]
+}
